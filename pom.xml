@@ -18,10 +18,15 @@
 		<java.version>1.8</java.version>
 	</properties>
 
+	<scm>
+		<url>https://github.com/aamatveev/release-example</url>
+		<connection>scm:git:https://github.com/aamatveev/release-example.git</connection>
+	</scm>
+
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter</artifactId>
+			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 
 		<dependency>
