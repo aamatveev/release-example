@@ -20,7 +20,7 @@
 	<scm>
 		<url>https://github.com/aamatveev/release-example</url>
 		<connection>scm:git:https://github.com/aamatveev/release-example.git</connection>
-	  <tag>release-example-0.2.x</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 	<dependencies>
